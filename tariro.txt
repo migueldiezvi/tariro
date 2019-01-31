@@ -1,0 +1,6 @@
+total 8
+drwxr-xr-x   5 miguel  staff  160 31 ene 22:37 .
+drwxr-xr-x@ 23 miguel  staff  736 31 ene 22:35 ..
+drwxr-xr-x  12 miguel  staff  384 31 ene 22:36 .git
+-rw-r--r--   1 miguel  staff    9 31 ene 22:35 README.md
+-rw-r--r--   1 miguel  staff    0 31 ene 22:37 tariro.txt
